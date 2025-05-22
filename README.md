@@ -13,6 +13,12 @@ Token Özelleştirme:
 Token özelleştirme bölümünde, hesabınızı ekledikten sonra istediğiniz gibi özelleştirebilirsiniz ve isterseniz hesabınızı kaldırabilirsiniz.
 
 Aşağıdaki görsellerde bu özelliklerin çoğunu görebilirsiniz.
+
+Destek için veya yardım için https://discord.gg/auranest veya 
+https://discord.com/users/817463869487185980
+https://discord.com/users/1150681244510728194
+https://discord.com/users/758758516516585491
+
 ![eb2d3d8a-d02e-4ad8-91e7-75af44fea79b](https://github.com/user-attachments/assets/72ab51d6-3da4-4a9e-909e-e189736c51c4)
 ![ea5abaf3-23e9-469f-b710-bae183818a55](https://github.com/user-attachments/assets/561a9056-7c4d-4e9a-8e08-65630945cea3)
 ![da4496e2-05fe-4020-81f0-3d9e2a5b1cc8](https://github.com/user-attachments/assets/5576e254-b04c-4880-8f9a-f1fa4c61b2ba)
