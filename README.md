@@ -15,8 +15,11 @@ Token özelleştirme bölümünde, hesabınızı ekledikten sonra istediğiniz g
 Aşağıdaki görsellerde bu özelliklerin çoğunu görebilirsiniz.
 
 Destek için veya yardım için https://discord.gg/auranest veya 
+
 https://discord.com/users/817463869487185980
+
 https://discord.com/users/1150681244510728194
+
 https://discord.com/users/758758516516585491
 
 ![eb2d3d8a-d02e-4ad8-91e7-75af44fea79b](https://github.com/user-attachments/assets/72ab51d6-3da4-4a9e-909e-e189736c51c4)
